@@ -1,0 +1,10 @@
+set noexpandtab
+set number
+set ruler
+set list
+set nowrap
+set laststatus=2
+set nobackup
+set incsearch
+set showmode
+set autoindent
