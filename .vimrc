@@ -3,12 +3,13 @@ set number
 set ruler
 set list
 set nowrap
-set nobackup
 set incsearch
 set showmode
 set autoindent
-
 set laststatus=2
+
+set nobackup
+set noundofile
 
 " NeoBundle ------------------------------------------
 if has('vim_starting')
